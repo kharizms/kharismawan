@@ -1,0 +1,1 @@
+print('Rusdi berkata, “Aku akan menjadi raja ngawi.”')
