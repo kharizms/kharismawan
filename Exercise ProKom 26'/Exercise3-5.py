@@ -2,7 +2,6 @@ tamu = ["DimasBOWOK", "DhimasGYM", "Fadhil"]
 
 print(f"Wah, {tamu[1]} gabisa datang cuy.\n")
 
-# Mengganti "Elon Musk" dengan "Albert Einstein"
 tamu[1] = "Rusdimut Ironiawan"
 
 # Mencetak ulang undangan untuk daftar tamu yang baru
